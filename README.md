@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @disha
+- 👀 I’m interested in 
+- 🌱 I’m currently pursuing Masters Degree in Computer Applications
+- 😄 I am an tech enthusiast tryto learn new things.
