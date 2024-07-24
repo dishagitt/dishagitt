@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @disha
-- 👀 I’m interested in 
-- 🌱 I’m currently pursuing Masters Degree in Computer Applications
+- 👀 I’m interested in creating Websites. 
+- 🌱 I’m currently pursuing Masters Degree in Computer Applications.
 - 😄 I am a tech enthusiast trying to learn new things.
