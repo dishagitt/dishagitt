@@ -27,7 +27,7 @@ Here are a few projects I’ve worked on:
 
 ### 📫 Get in Touch
 
-- **LinkedIn**: (https://www.linkedin.com/in/disha-prajapati-17255322b)
+- **LinkedIn**: https://www.linkedin.com/in/prajapati-disha/
 - **Email**: dishap277@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related! I'm always open to new opportunities and challenges.
