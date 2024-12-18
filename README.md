@@ -12,8 +12,8 @@ I’m Disha, an MCA student passionate about programming and building cool proje
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, Java, C++.
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript.
+- **Languages**: Python, JavaScript, Java, PHP, C++.
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript.
 - **Backend**: Python (Django)
 - **Database**: SQLite, MySQL.
 - **Tools & Platforms**: Git, GitHub, Android Studio, Visual Studio Code.
@@ -24,6 +24,8 @@ Here are a few projects I’ve worked on:
 
 - **1. HandmadeCharm**: An e-commerce platform for handicrafts with user and seller functionalities.
 - **2. Rock-Paper-Scissors Game**: An Android app for a fun interactive game with real-time score tracking.
+- **3. FashionHub**: An online platform for a single vendor to sell clothing items while providing customers with a seamless shopping experience.
+- **4. DentalCare**: A web-based Dentist Appointment Management System designed to streamline the process of booking and managing dental appointments.
 
 ### 📫 Get in Touch
 
