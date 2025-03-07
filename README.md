@@ -7,13 +7,13 @@ I’m Disha, an MCA student passionate about programming and building cool proje
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
 - 💡 Love working on projects that involve creativity and logical problem-solving.
 - 🌟 Strong interest in **web development**, **Android apps**, and creating efficient, user-friendly applications.
-- 🌱 Currently learning **Django**, **Data Structures**.
+- 🌱 Currently learning **ReactJs**, **Data Structures**.
 - 🎯 Aspiring to contribute to the tech industry as a software developer.
 
 ### 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, Java, PHP, C++.
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript.
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, Jquery.
 - **Backend**: Python (Django)
 - **Database**: SQLite, MySQL.
 - **Tools & Platforms**: Git, GitHub, Android Studio, Visual Studio Code.
