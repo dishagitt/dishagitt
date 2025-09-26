@@ -4,8 +4,8 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 
 ### 👩‍💻 About Me
 
-- 💡 Love working on projects that combine creativity, logical problem-solving, and teamwork.
-- 🌟 Strong interest in Web Development, Backend Development, and IT Project Management.
+- 💡 Love working on projects that combine creativity, **logical problem-solving**, and **teamwork**.
+- 🌟 Strong interest in **Web Development**, **Backend Development**, and **IT Project Management**.
 - 🌱 Currently learning Flask, Django, Data Structures, along with exploring Agile, Scrum, and project coordination tools like JIRA & Trello.
 - 🎯 Aspiring to grow into a professional who can develop efficient applications as well as coordinate projects for successful delivery.
 
@@ -21,11 +21,11 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 
 Here are a few projects I’ve worked on (highlighting both dev + coordination skills):
 
-- **1. Track-Hack**: A system for my college to track student hackathon participation. (Handled requirement gathering, documentation, and development.)
-- **2. HandmadeCharm**: An e-commerce platform for handicrafts with user/seller features. (Coordinated project tasks in a small team, along with backend coding.)
-- **3. Rock-Paper-Scissors Game**: An Android game app with real-time score tracking.
-- **4. FashionHub**: A single-vendor clothing e-commerce platform providing a seamless shopping experience.
-- **5. DentalCare**: A Dentist Appointment Management System. (Applied SDLC phases from requirement gathering to testing.)
+- Track-Hack**: A system for my college to track student hackathon participation. (Handled requirement gathering, documentation, and development.)
+- HandmadeCharm**: An e-commerce platform for handicrafts with user/seller features. (Coordinated project tasks in a small team, along with backend coding.)
+- Rock-Paper-Scissors Game**: An Android game app with real-time score tracking.
+- FashionHub**: A single-vendor clothing e-commerce platform providing a seamless shopping experience.
+- DentalCare**: A Dentist Appointment Management System. (Applied SDLC phases from requirement gathering to testing.)
 
 ### 📫 Get in Touch
 
