@@ -5,15 +5,15 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 ### 👩‍💻 About Me
 
 - 💡 Love working on projects that combine creativity, **logical problem-solving**, and **teamwork**.
-- 🌟 Strong interest in **Web Development**, **Backend Development**, and **IT Project Management**.
-- 🌱 Currently learning Flask, Django, Data Structures, along with exploring Agile, Scrum, and project coordination tools like JIRA & Trello.
+- 🌟 Strong interest in **Python Development**, **Backend Development**, and **IT Project Management**.
+- 🌱 Currently learning Flask, FastAPI, Django, Data Structures, along with exploring Agile, Scrum, and project coordination tools like JIRA & Trello.
 - 🎯 Aspiring to grow into a professional who can develop efficient applications as well as coordinate projects for successful delivery.
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, Jquery
-- **Languages**: Python, Java, PHP, C++
-- **Frameworks**: Flask, Django, React
+- **Frontend**: HTML5, CSS3, Tailwind, Bootstrap, JavaScript
+- **Languages**: Python, PHP, C++
+- **Frameworks**: Flask, FastAPI, Django, React
 - **Database**: SQLite, MySQL
 - **Tools & Platforms**: Git, GitHub, Android Studio, Visual Studio Code, Postman
 
@@ -21,18 +21,19 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 
 Here are a few projects I’ve worked on (highlighting both dev + coordination skills):
 
-- Track-Hack**: A system for my college to track student hackathon participation. (Handled requirement gathering, documentation, and development.)
-- HandmadeCharm**: An e-commerce platform for handicrafts with user/seller features. (Coordinated project tasks in a small team, along with backend coding.)
-- Rock-Paper-Scissors Game**: An Android game app with real-time score tracking.
-- FashionHub**: A single-vendor clothing e-commerce platform providing a seamless shopping experience.
-- DentalCare**: A Dentist Appointment Management System. (Applied SDLC phases from requirement gathering to testing.)
+- **QR-Code-Generator**: A QR code generator app built using Flask.
+- - **NoteNest**: A simple notes app built in Flask and Sqlite.
+- **Track-Hack**: A system for my college to track student hackathon participation. (Handled requirement gathering, documentation, and development.)
+- **HandmadeCharm**: An e-commerce platform for handicrafts with user/seller features. (Coordinated project tasks in a small team, along with backend coding.)
+- **FashionHub**: A single-vendor clothing e-commerce platform providing a seamless shopping experience.
+
 
 ### 📫 Get in Touch
 
 - **LinkedIn**: https://www.linkedin.com/in/prajapati-disha/
 - **Email**: dishap277@gmail.com
 
-💬 Always open to opportunities in Software Development as well as Associate Project Management roles where I can combine my technical expertise with organizational and coordination skills.
+💬 Always open to opportunities in Backend Development, Python Developement as well as Associate Project Management roles where I can combine my technical expertise with organizational and coordination skills.
 
 
 
