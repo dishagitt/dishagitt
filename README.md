@@ -22,7 +22,7 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 Here are a few projects I’ve worked on (highlighting both dev + coordination skills):
 
 - **QR-Code-Generator**: A QR code generator app built using Flask.
-- - **NoteNest**: A simple notes app built in Flask and Sqlite.
+- **NoteNest**: A simple notes app built in Flask and Sqlite.
 - **Track-Hack**: A system for my college to track student hackathon participation. (Handled requirement gathering, documentation, and development.)
 - **HandmadeCharm**: An e-commerce platform for handicrafts with user/seller features. (Coordinated project tasks in a small team, along with backend coding.)
 - **FashionHub**: A single-vendor clothing e-commerce platform providing a seamless shopping experience.
