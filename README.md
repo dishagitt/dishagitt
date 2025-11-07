@@ -6,7 +6,7 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 
 - 💡 Love working on projects that combine creativity, **logical problem-solving**, and **teamwork**.
 - 🌟 Strong interest in **Python Development**, **Backend Development**, and **IT Project Management**.
-- 🌱 Currently learning Flask, FastAPI, Django, Data Structures, along with exploring Agile, Scrum, and project coordination tools like JIRA & Trello.
+- 🌱 Currently learning Flask, FastAPI, Django, Data Structures, along with exploring Agile, Scrum, and project coordination tools like JIRA.
 - 🎯 Aspiring to grow into a professional who can develop efficient applications as well as coordinate projects for successful delivery.
 
 ### 🛠️ Technologies & Tools
