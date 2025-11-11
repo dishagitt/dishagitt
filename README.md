@@ -14,7 +14,7 @@ I’m Disha, an IT enthusiast passionate about programming, building impactful p
 - **Frontend**: HTML5, CSS3, Tailwind, Bootstrap, JavaScript
 - **Languages**: Python, PHP, C++
 - **Frameworks**: Flask, FastAPI, Django, React
-- **Database**: SQLite, MySQL
+- **Database**: SQLite, MySQL, PostgreSQL
 - **Tools & Platforms**: Git, GitHub, Android Studio, Visual Studio Code, Postman
 
 ### 🌟 My Projects
